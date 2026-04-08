@@ -1,0 +1,18 @@
+.container {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+/* Cores específicas para as categorias */
+.epico { color: gold; font-weight: bold; }
+.bom { color: green; }
+.mediocre { color: orange; }
+.ruim { color: gray; text-decoration: line-through; }
